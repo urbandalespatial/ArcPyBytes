@@ -3,8 +3,13 @@
 # Created by:  Nathan Jennings
 # Created on:  03.26.2017
 # Updated on:  03.26.2017
+# Copyright: UrbandaleSpatial, 2017
+# www.urbandalespatial.com
+# GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 
 '''
+Uses the sacramento_streets.shp file from the Python Primer Chapter05 Data folder.
+The source file and data field can be changed as necessary.
 
 2 options to create a unique list of values (i.e. the "CLASS" field)
 and then use the list for further geoprocessing
